@@ -1,0 +1,10 @@
+# Local data and generated artefacts
+*.csv
+*.pdf
+*.xlsx
+*.joblib
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
